@@ -1,0 +1,51 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Generated code
+/srv/target/**
+
+# Flattened POM
+.flattened-pom.xml
+/srv/.flattened-pom.xml
+/integration-tests/.flattened-pom.xml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# VSCode
+.vscode/
+
+# Maven
+log/
+target/
+
+# Git - Mac
+.DS_Store
+
+#NPM
+node_modules/
