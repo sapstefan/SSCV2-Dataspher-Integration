@@ -7,7 +7,7 @@ The articles can be accessed through the following links:
 
 [Event-Driven Data Integration from SAP Sales and Service Cloud V2 to SAP Datasphere (Part 2 of 2)](https://community.sap.com/t5/crm-and-cx-blogs-by-sap/event-driven-data-integration-from-sap-sales-and-service-cloud-v2-to-sap/ba-p/14046866)
 
-The artefacts that are needed to setup the end-to-end integration scenarios as described in these articles are provided in the "artefacts" folder :
+The artefacts that are needed to setup the end-to-end integration scenarios as described in these articles are provided in the "artefacts" folder of this repository:
 
 * "SCV2 to DataSphere - Standard Events.zip"
   * Contains the iFlow definition for the integration scenario
