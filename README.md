@@ -15,4 +15,5 @@ The artefacts that are needed to setup the end-to-end integration scenarios as d
 
 * "DDL statements for table creation.zip"
   * Contains one individual DDL file for each table to be created
-  * The statements specified per file can directly be copied into the SQL console of the Hana Cloud DB of SAP Datasphere and executed from there
+  * Unzip the file to get the individual sql files with required DDL statements for table creation in the Hana Cloud DB of SAP Datasphere
+  * The statements specified per file can directly be copied into the SQL console of the Hana Cloud DB and executed from there
